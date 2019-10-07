@@ -1,0 +1,10 @@
+{
+
+  "menu": [
+    {
+      "name": "二维码",
+      "action": "com.google.zxing.clinet.android.CaptureActivity"
+    }
+  ]
+
+}
